@@ -3,7 +3,7 @@ I'm an indie dev from The Netherlands who taught himself how to code by followin
 
 I encorporated AI into my workflow early on, which allows me to quickly hack together projects. 
 
-# Projects 
+### Projects 
 NoSkip 
 
 <!--
