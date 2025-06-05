@@ -3,6 +3,9 @@ I'm an indie dev from The Netherlands who taught himself how to code by followin
 
 I encorporated AI into my workflow early on, which allows me to quickly hack together projects. 
 
+# Projects 
+NoSkip 
+
 <!--
 **MaartenSlebos/MaartenSlebos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
