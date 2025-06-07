@@ -4,7 +4,7 @@ I'm an indie dev from The Netherlands who taught himself how to code by followin
 I encorporated AI into my workflow early on, which allows me to quickly hack together projects. 
 
 ## Projects 
-### NoSkip 
+<ins>### NoSkip</ins>
 NoSkip is an app that I built to keep people accountable in the gym with a financial incentive. 
 
 ### StartStack
