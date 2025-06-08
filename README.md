@@ -8,4 +8,5 @@ I encorporated AI into my workflow early on, which allows me to quickly hack tog
 NoSkip is an app that I built to keep people accountable in the gym with a financial incentive. 
 
 ### <ins>StartStack</ins>
-StartStack is an app boilerplate with Supabase for auth and db, and Revenuecat already set up. 
+StartStack is an app boilerplate with Supabase for auth and db, and Revenuecat already set up.
+Also a landing page for the app built with NextJS & Tailwind. Optimized for conversion and rapid iteration. 
