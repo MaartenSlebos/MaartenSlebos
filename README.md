@@ -5,7 +5,7 @@ I encorporated AI into my workflow early on, which allows me to quickly hack tog
 
 ## Projects 
 ### <ins>NoSkip</ins>
-NoSkip is an app that I built to keep people accountable in the gym with a financial incentive. 
+[NoSkip](https://noskip.app) is an app that I built to keep people accountable in the gym with a financial incentive. 
 
 ### <ins>StartStack</ins>
 StartStack is an app boilerplate with Supabase for auth and db, and Revenuecat already set up.
