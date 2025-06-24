@@ -3,7 +3,7 @@ I'm building a suite of products in the music industry.
 
 ## Projects 
 ### <ins>SubmitBio</ins>
-[SubmitBio](https://submit.bio) is a link-in-bio platform for curators to monetize their playlists. 
+<a href="https://submit.bio" target="_blank">SubmitBio</a> is a link-in-bio platform for curators to monetize their playlists.
 
 ### <ins>CuratorTools</ins>
 [CuratorTools](https://curator.tools) is playlist management platform making it easy for curators to grow and manage their playlists. 
